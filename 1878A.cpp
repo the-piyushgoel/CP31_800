@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
- 
+// 1878A
 int main() {
 	int t;
 	cin>>t;
